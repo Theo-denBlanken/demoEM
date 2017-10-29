@@ -2,5 +2,5 @@
 
 ## om mee te spelen
 
-Haal in de CSS de verschillende comments weg en kijk wat er dan gebeurd.
-Zeer leerzaam.
+Je kunt zowel in de 'groene' wrapper de fontsize aanpassen als voor het hele document.
+Kijk wat er dan gebeurt.
